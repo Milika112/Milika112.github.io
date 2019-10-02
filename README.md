@@ -1,2 +1,66 @@
-# https://Milika112.nl/mijn/eerste/website/
-Mijn Eerste Website
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>About</title>
+	<link type="text/css" rel="stylesheet" href="css/simple.css"/>
+	<meta charset="utf-8"/>
+	<link href="css/master.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body background="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif"
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #3ecf9e;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="Milika112.github.io/WhyDon'tWe.html">Why Don't We</a></li>
+
+</ul>
+
+</body>
+<center><b><font size="6">About me</font></b></center>
+		<font color="lightblue">
+			<center><b><h4>Ik ben Milika Vol</h4></b></center>
+			<center>ik ben 14 jaar oud en wordt 10 oktober 15</center>
+			<center>Ik woon in Zaltbommel</center>
+			<center><b><font size="5">Mijn hobby's zijn:</font></b></center>
+			<center>Tekenen,</center>
+			<center>Hockeyen en dan de keepster,</center>
+			<center>Lezen,</center>
+			<center>Producen,</center>
+			<center>Eigen liedjes maken,</center>
+			<center>Zingen,</center>
+			<center><p>En ik ben nu bezig met gitaar leren spelen</p></center>
+			<center><p>Ik hou van netflixen, dus films en series kijken.</p></center>
+			<center><p><b><font size="5">De leukste films en series zijn dan toch wel:</font></b></p></center>
+			<center><p>Alle Avengers films, alle Star Wars films, serie The Flash, serie The100, serie Glee</p></center>
+			<center><p><img src="https://am23.akamaized.net/tms/cnt/uploads/2013/02/star-wars-characters-copy.jpg" alt="lol" width="240"/></p></center>
+			<center><b><h3>This is Why Don't We:</h3></b></center>
+			<center><p>I'm a big big big fan of Why Don't We.</p></center>
+		<center><p><img src="https://images.genius.com/2d46884a2c55198251c1d6bfc0746e7d.1000x1000x1.jpg" alt="Picture of Ling Ling" width="240"/></p></center>
